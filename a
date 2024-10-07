@@ -1,1 +1,26 @@
-
+<html>
+  <head>
+    <link rel="stylesheet" a href="style.css">
+    <style> 
+    </style>
+    <title>Networking</title>
+  </head>
+  <body>
+    <h1>Networking Items</h1>
+    <figure>
+      <h2>Wifi Router</h2>
+        <img src="download.jpg" alt="Placeholder">
+        <figcaption>Found in my living room, </figcaption>
+     </figure>
+     <h2>Item #2</h2>
+     <figure>
+      <img src="download.jpg" alt="Placeholder">
+      <figcaption>Text Placeholder</figcaption>
+   </figure>
+   <h2>Item #3</h2>
+   <figure>
+    <img src="download.jpg" alt="Placeholder">
+    <figcaption>Text Placeholder</figcaption>
+ </figure>
+  </body>
+</html>
