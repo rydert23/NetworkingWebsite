@@ -9,18 +9,18 @@
     <h1>Networking Items</h1>
     <figure>
       <h2>Wifi Router</h2>
-        <img src="download.jpg" alt="Placeholder">
-        <figcaption>Found in my living room, </figcaption>
+        <img src="IMG_8982.jpeg" width="300px" height="300px" alt="Router">
+        <figcaption>Found in my living room, it connects all the electronic devices in my home to the xfinity wifi network. </figcaption>
      </figure>
-     <h2>Item #2</h2>
+     <h2>LAN cable</h2>
      <figure>
-      <img src="download.jpg" alt="Placeholder">
-      <figcaption>Text Placeholder</figcaption>
+      <img src="lancable.jpg" width=300px height=300px alt="LAN cable">
+      <figcaption> Found in my room connecting my PS5 to a wifi pod. It provides a faster, more stable connection to my wifi network.</figcaption>
    </figure>
-   <h2>Item #3</h2>
+   <h2>Traditional Copper Wire</h2>
    <figure>
-    <img src="download.jpg" alt="Placeholder">
-    <figcaption>Text Placeholder</figcaption>
+    <img src="IMG_8990.jpeg" width="300px" height="300px" alt="wires">
+    <figcaption>This is found throughout the computer lab and wherever computers can be find in my school. They connect the computers to the school network, providing a fast connection for all who uses it.</figcaption>
  </figure>
   </body>
 </html>
